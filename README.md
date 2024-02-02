@@ -1,4 +1,4 @@
-## System Design Task - Push Notifications
+# System Design Task - Push Notifications
 
 ## Context
 
